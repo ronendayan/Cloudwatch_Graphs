@@ -1,0 +1,15 @@
+{
+  "aws_credentials":{
+    "aws_access_key_id": "AWS_ACCESS_KEY",
+    "aws_secret_access_key": "AWS_SECRET_ACCESS"
+  },
+  "disk_path":{
+    "html_file_path": "PATH_TO_HTML_FILE ( /var/www/html/graphs/ )",
+    "image_file_path": "PATH_TO_IMAGE_FILE ( /var/www/html/images/ )",
+    "log_file_path": "PATH_TO_LOG_FILE ( /var/log/create_graphs.log )"
+  },
+  "urls": {
+    "graph_url": "URL_TO_GRAPH_HTML ( https://example.com/graphs/ )",
+    "image_url": "URL_TO_GRAPH_IMAGE ( https://example.com/images/ )"
+  }
+}

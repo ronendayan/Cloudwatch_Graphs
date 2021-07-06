@@ -1,0 +1,12 @@
+{
+    "cloudwatch": {
+      "cpu": "CPUUtilization",
+      "net_in": "NetworkIn",
+      "net_out": "NetworkOut"
+  },
+    "cloudwatch_unit": {
+      "cpu": "Percent",
+      "net_in": "Bytes",
+      "net_out": "Bytes"
+    }
+}
